@@ -254,8 +254,8 @@
 </head>
 
 <body>
-<div id="apDiv4"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Template%20Folder/choice%20for%20website%20making.html">Final Choice for Website Making</a></div>
-<div id="apDiv5"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Templates/choice%20for%20website%20making.html">Choice for Website Making</a></div>
+<div id="apDiv4"><a href="CTD-Planning-site-JHui/subpages/final choice for website.html">Final Choice for Website Making</a></div>
+<div id="apDiv5"><a href="../Templates/Template/subpages/choice for website making.html">Choice for Website Making</a></div>
 <div id="apDiv6"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Project%20Objectives.html">Project Objectives</a></div>
 <div id="apDiv7"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Success%20Criteria.html">Success Criteria</a></div>
 <div id="apDiv8"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Questions%20to%20Consider%20for%20Planning%20Site.html">Question to Consider for Planning Site</a></div>
@@ -274,6 +274,6 @@
 <div id="apDiv3"></div>
 <!-- TemplateEndEditable -->
 
-<div id="apDiv15"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/index.html">Home</a>e</div>
+<div id="apDiv15"><a href="home.html">Home</a></div>
 </body>
 </html>
