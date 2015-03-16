@@ -1,12 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/final template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Ideas for website making</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 <style type="text/css">
 
 }
@@ -129,13 +129,13 @@
 }
 #apDiv12 {
 	position:absolute;
-	left:13px;
-	top:611px;
+	left:11px;
+	top:668px;
 	width:180px;
 	height:90px;
 	z-index:12;
 	font-size: 25px;
-	background-color: #00FFFF;
+	background-color: #FFFF00;
 }
 	#apDiv13 {
 	position:absolute;
@@ -268,31 +268,25 @@
 </head>
 
 <body>
-<div id="apDiv4"><a href="final choice for website.html">Final Choice for Website Making</a></div>
-<div id="apDiv5"><a href="ideas of website making.html">Choice for Website Making</a></div>
-<div id="apDiv6"><a href="Project objectives.html">Project Objectives</a></div>
-<div id="apDiv7"><a href="success criteria.html">Success Criteria</a></div>
-<div id="apDiv8"><a href="question to consider .html">Question to Consider for Planning Site</a></div>
-<div id="apDiv9"> <a href="flowchart ideas.html">Flowchart Ideas</a></div>
+<div id="apDiv4"><a href="../subpages/final choice for website.html">Final Choice for Website Making</a></div>
+<div id="apDiv5"><a href="../subpages/ideas of website making.html">Choice for Website Making</a></div>
+<div id="apDiv6"><a href="../subpages/Project objectives.html">Project Objectives</a></div>
+<div id="apDiv7"><a href="../subpages/success criteria.html">Success Criteria</a></div>
+<div id="apDiv8"><a href="../subpages/question to consider .html">Question to Consider for Planning Site</a></div>
+<div id="apDiv9"> <a href="../subpages/flowchart ideas.html">Flowchart Ideas</a></div>
 
-<div id="apDiv10"><a href="Chosen Flowchart.html"> Chosen Flowchart</a></div>
+<div id="apDiv10"><a href="../subpages/Chosen Flowchart.html"> Chosen Flowchart</a></div>
 
-<div id="apDiv11"><a href= "wrieframe of home resources page.html"> wireframe of Home Resources </a></div>
+<div id="apDiv11"><a href= " file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Wireframe%20of%20home%20resource%20page.html"> wireframe of Home Resources</a></div>
 
-<div id="apDiv12"><a href="storyboard of home resource page.html"> Storyboard of Home Resources page</a></div>
-<div id="apDiv21"><a href="home page.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','fireworksbuttom','../images/fireworks%20buttom_s2.jpg','../images/fireworks%20buttom_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','fireworksbuttom','../images/fireworks%20buttom_s3.jpg',1);"><img name="fireworksbuttom" src="../images/fireworks%20buttom.jpg" width="184" height="64" border="0" id="fireworksbuttom" alt="" /></a></div>
+<div id="apDiv12"><a href=" file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/Stroyboard%20of%20home%20resources%20page.html"> Storyboard of Home Resources page</a></div>
+<div id="apDiv13"><a href="file:///Users/CTD-2/Desktop/GitHub/CTD-PLanning-Site-JHui/makinghomepage.html"> Making Homepage </a></div>
+<div id="apDiv21"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','fireworksbuttom','../images/fireworks%20buttom_s2.jpg','../images/fireworks%20buttom_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','fireworksbuttom','../images/fireworks%20buttom_s3.jpg',1);"><img name="fireworksbuttom" src="../images/fireworks%20buttom.jpg" width="184" height="64" border="0" id="fireworksbuttom" alt="" /></a></div>
 <div id="apDiv14"></div>
-<!-- InstanceBeginEditable name="Title" -->
+<!-- TemplateBeginEditable name="Title" -->
 <div id="apDiv2"> Jacky Hui Website Making Planning Site</div>
-<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Content" -->
-<div id="apDiv3">
-  <h1>Ideas for Website Making</h1>
-  <ul>
-    <li>Jordan Leadership Club</li>
-    <li>Physics tutorial</li>
-    <li>different ways to tie a tie</li>
-  </ul>
-</div>
-<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Content" -->
+<div id="apDiv3"></div>
+<!-- TemplateEndEditable -->
 </body>
-<!-- InstanceEnd --></html>
+</html>
